@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**felipepifranco/felipepifranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Computer Science student at UFMG (Federal University of Minas Gerais), passionate about understanding how things work under the hood. I love every opportunity to learn more.
+
+I am currently focused in cybersecurity and systems development.
+
+## 🛠️ What I Know (and What I'm Learning)
+
+I've been trying to familiarize myself with different areas of Computer Science, while staying focused on what I find most important and interesting. Here are the main technologies I work with:
+
+* **Programming Languages:**
+  * **C & C++:** Solid foundation on problem solving and systems development
+  * **Python:** Basic scripting and analysis.
+  * **Rust:** Currently studying the basics.
+
+* **Cybersecurity:**
+  * Reverse engineering and binary exploitation using tools like **Ghidra** and **GDB** are my current focus.
+  * Experience solving diverse **CTF** challenges.
+
+* **Tools & Frameworks:**
+  * **Infrastructure:** Docker and Docker Compose for containerization and environment management (basics).
