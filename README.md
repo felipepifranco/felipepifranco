@@ -27,3 +27,14 @@ I've been trying to familiarize myself with different areas of Computer Science,
 
 * **Tools & Frameworks:**
   * **Infrastructure:** Docker and Docker Compose for containerization and environment management (basics).
+
+## 🌐 Social Media
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/felipe-franco-pires/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://letterboxd.com/Felps_acid/" target="_blank">
+    <img src="https://img.shields.io/badge/Letterboxd-2C3440?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd" />
+  </a>
+</div>
