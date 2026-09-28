@@ -2,7 +2,7 @@
 
 I am a Computer Science student at UFMG (Federal University of Minas Gerais), driven by a deep curiosity for system internals and low-level architecture. I love every opportunity to learn more.
 
-Currently focused in cybersecurity and binary analyses.
+Currently focused in cybersecurity and binary analysis.
 
 ## What I Know (and What I'm Learning)
 
